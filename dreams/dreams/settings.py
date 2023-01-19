@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'wishes.apps.WishesConfig',
-    'wishes_api.apps.WishesApiConfig'
+    'wishes_api.apps.WishesApiConfig',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
