@@ -1,2 +1,2 @@
 # my-react-django
-this is a project to practise with React,Django and Postgre stack
+This is the DRF API which will be used for consumption by my react app
